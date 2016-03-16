@@ -1,6 +1,6 @@
 name: Salim Khouri
 favicon: null
-layout_spectrum: 0.31204273737967014
+layout_spectrum: 0.65521
 typography_spectrum: 0.1401868173852563
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.576233081985265
-  lightness: 0.5179362059570849
-  saturation: 0.4197950237430632
+    - '#000000'
+    - '#484848'
+    - '#999999'
+    - '#696969'
+    - '#b2b2b2'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.8578642199281603
 purpose: []
