@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Salim Khouri]]></title>
         <description><![CDATA[Salim Khouri]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/salim-khouri/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 02:27:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 02:33:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/salim-khouri/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>If you've discovered this... then welcome to my new website. </p>]]></description>
-            <link>undefinedif-youve-discovered-this-then-welcome-to-my-new-website/index.html</link>
+            <link>https://thegrid.ai/salim-khouri/if-youve-discovered-this-then-welcome-to-my-new-website/index.html</link>
             <guid isPermaLink="false">de0534c1-ee9a-4e7c-8def-d521a77c2b9e</guid>
-            <pubDate>Wed, 16 Mar 2016 02:27:17 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2016 02:32:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
