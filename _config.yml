@@ -1,6 +1,6 @@
 name: Salim Khouri
 favicon: null
-layout_spectrum: 0.65521
+layout_spectrum: 0
 typography_spectrum: 0.1401868173852563
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#999999'
     - '#696969'
     - '#b2b2b2'
-  brandStrength: 0.5
+  brandStrength: 0.5625
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.8578642199281603
